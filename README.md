@@ -96,3 +96,4 @@ You can read the translation to understand it, but the prayer itself is recited 
 ---
 
 *Written for [Current Islam](https://currentislam.com/) — Quran transliteration, translation and duas in plain English.*
+<meta name="google-site-verification" content="WTRXMfRTs6mI0SAINu8vQSvWsEwNvSkLs0Ptvvu-Gm4" />
